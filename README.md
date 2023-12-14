@@ -13,4 +13,4 @@ npm install
 npm start
 ```
 
-[Live Preview](https://earnest-malabi-d7f4f2.netlify.app)
+[Live Preview](https://ephemeral-semifreddo-fe2b50.netlify.app/)
