@@ -13,4 +13,4 @@ npm install
 npm start
 ```
 
-[Live Preview](https://ephemeral-semifreddo-fe2b50.netlify.app/)
+[Live Preview](https://reactmemoryapp.netlify.app/)
